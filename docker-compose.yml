@@ -1,0 +1,6 @@
+services:
+  program:
+    image: program
+    command: python ./program.py
+    volumes:
+      - ./:/app
