@@ -7,5 +7,5 @@ https://github.com/InventivetalentDev/minecraft-assets/tree/1.19.3/assets/minecr
 (BIG SHOUT-OUT)
 
 
-Filtered all rectangular, animated, and alpha-value(transparency)-containing textures.
+Filtered all rectangular, animated, and alpha-value(transparency) containing textures.
 Top, bottom, front, side and back textures are not not separated because I do not care enough to do so.
