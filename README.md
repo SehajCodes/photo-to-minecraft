@@ -1,5 +1,5 @@
 # This python program replaces blocks of pixels in "source.png" image with Minecraft blocks.
-Project was developed and is intended to work in a Docker container. Haven't tested it in any major OS.
+Project was developed and is intended to run in a Docker container. Haven't tested it in any major OS.
 
 Extracted Minecraft blocks textures obtained from:
 
